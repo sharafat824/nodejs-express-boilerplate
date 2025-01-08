@@ -25,7 +25,7 @@ A starter template for building robust RESTful APIs using Node.js, Express, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/nodejs-express-boilerplate.git
+   git clone https://github.com/sharafat824/nodejs-express-boilerplate.git
    cd nodejs-express-boilerplate
 
 
